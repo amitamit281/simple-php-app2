@@ -14,7 +14,7 @@
 <body>
     <section class="congratulations">
         <h1>Welcome!</h1>
-	<p>West Us 2</p>
+	<p>East Us 2</p>
     </section>
     <!--[if lt IE 9]><script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script><![endif]-->
 </body>
